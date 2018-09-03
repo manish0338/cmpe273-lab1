@@ -1,0 +1,14 @@
+
+D:\projects\python>python http_call.py
+Mon, 03 Sep 2018 04:07:10 GMT
+Mon, 03 Sep 2018 04:07:13 GMT
+Mon, 03 Sep 2018 04:07:17 GMT
+
+D:\projects\python>python http_async_call.py
+
+Async req 1 timestamp - 2018-09-02 21:07:49.288982
+Async req 2 timestamp - 2018-09-02 21:07:49.289980
+Async req 3 timestamp - 2018-09-02 21:07:49.291009
+Mon, 03 Sep 2018 04:07:32 GMT
+Mon, 03 Sep 2018 04:07:32 GMT
+Mon, 03 Sep 2018 04:07:32 GMT
