@@ -2,7 +2,7 @@ language: go
 go:
   - 1.12
 install:
-  - make
+  - echo "install"
 after_success:
   - echo "Hello"
 after_failure:
